@@ -30,3 +30,11 @@ Every Tweet was labelled to be either "Opinionated" (O) or "Neutral" (NT). If th
     If a tweet is "Opinionated" and "Positive", it is labelled OP
 
     If a tweet is "Neutral", it labelled NT
+    
+    
+### Contributors 
+This project was done as part of the information retrival course work from NTU and completed within a group of 5. 
+Serene Quek Kai Zhen (Group Leader), Bedi Jannat, Kant Mannan, David Koriadi and Fang ShuHui. 
+
+Serene, Jannat and Mannan collaborated to mine and and perform classification of the tweets. 
+David and ShuHui took charge of an information retrival system to retrieve the tweets on our front-end interface.
