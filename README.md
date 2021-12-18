@@ -14,8 +14,8 @@ Two members in the team were tasked with labelled the records and below is an ov
 
 Every Tweet was labelled to be either "Opinionated" (O) or "Neutral" (NT). If the tweet is "Opinionated", it would have a "Positive" (P) tone or a "Negative" (N) tone. 
 
-If a tweet is "Opinionated" and "Negative", it is labelled ON
+    If a tweet is "Opinionated" and "Negative", it is labelled ON
 
-If a tweet is "Opinionated" and "Positive", it is labelled OP
+    If a tweet is "Opinionated" and "Positive", it is labelled OP
 
-If a tweet is "Neutral", it labelled NT
+    If a tweet is "Neutral", it labelled NT
