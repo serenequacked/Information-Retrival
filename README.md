@@ -11,5 +11,3 @@ If a tweet is "Opinionated" and "Negative", it is labelled ON
 If a tweet is "Opinionated" and "Positive", it is labelled OP
 
 If a tweet is "Neutral", it labelled NT
-
-# Information Retrival Front end
